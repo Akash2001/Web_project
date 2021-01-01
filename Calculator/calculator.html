@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Calculator</title>
+
+<link rel="stylesheet" type="text/css" href="calculator.css">
+<link rel="stylesheet" type="text/css" href="../css/common.css">
+
+</head>
+
+
+<body>
+
+<div id="next"><a href="#">Last Project</a></div>
+
+<h1  id="title">Only one operation at a time</h1>
+
+<div id="container">
+	<div id="outer">
+		<div id="screen"></div>
+
+		<!--keypad--->
+		<div id="keypad">
+			<div id="key" class="key1" value="1" onclick="input1();">1</div>
+			<div id="key" class="key2"style="left: 33.33%" value="2" onclick="input2();">2</div>
+			<div id="key" class="key2" style="left: 66.66%" value="3" onclick="input3();">3</div>
+			<div id="key" class="key4" style="top: 110px" value="4" onclick="input4();">4</div>
+			<div id="key" class="key5" style="left: 33.33%;top: 110px" value="5" onclick="input5();">5</div>
+			<div id="key" class="key6" style="left: 66.66%;top:110px" value="6" onclick="input6();">6</div>
+			<div id="key" class="key7" style="top: 160px" value="7" onclick="input7();">7</div>
+			<div id="key" class="key8" style="left: 33.33%;top: 160px" value="8" onclick="input8();">8</div>
+			<div id="key" class="key9" style="left: 66.66%;top: 160px" value="9" onclick="input9();">9</div>
+			<div id="key" class="key10" style="top: 210px;background-color: red" value="*" onclick="input10();">*</div>
+			<div id="key" class="key11" style="left: 33.33%;top: 210px" value="0" onclick="input11();">0</div>
+			<div id="key" class="key12" style="left: 66.66%;top: 210px;background-color: red" value="=" onclick="input12();">=</div>
+			<div id="keyex" class="key13" style="" value="+" onclick="input13();">+</div>
+			<div id="keyex" class="key14" style="left: 25%" value="-" onclick="input14();">-</div>
+			<div id="keyex" class="key15" style="left: 50%" value="/" onclick="input15();">/</div>
+			<div id="keyex" class="key16" style="left: 75%" value="clr" onclick="input16();">clr</div>
+			
+
+		</div>
+	</div>
+</div>
+</body>
+
+<script type="text/javascript" src="calculator.js"></script>
+
+</html>

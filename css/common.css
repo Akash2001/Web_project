@@ -1,0 +1,10 @@
+#next{
+	height: 25px;
+	text-align: center;
+	background-color: blue;
+	margin: 0px 35% 0px 35%;
+}
+#next a{
+	text-decoration: none;
+	color: white;
+}
