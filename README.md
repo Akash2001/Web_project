@@ -12,5 +12,7 @@ Html, css and javascript begineer simple projects made just after getting famili
 </ol>
 
 # Deployed at
-    <a href="https://akash2001.github.io/Web_project/">Click Me</a>
-  Go check it.<br>Share your views.
+
+ <a href="https://akash2001.github.io/Web_project/">Click Me</a>
+   
+ Go check it.<br>Share your views.
