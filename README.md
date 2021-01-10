@@ -11,6 +11,6 @@ Suitable for begineers.
 6 A traditional calculator
 
 # Deployed at
-     https://akash2001.github.io/Web_project/
+    https://akash2001.github.io/Web_project/
   Go check it. 
   Share your views
