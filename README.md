@@ -10,6 +10,7 @@ Html, css and javascript begineer simple projects made just after getting famili
 <li>Square block moving application</li>
 <li>A traditional calculator</li>
 </ol>
+
 # Deployed at
     <a href="https://akash2001.github.io/Web_project/">Click Me</a>
   Go check it.<br>Share your views.
