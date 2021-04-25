@@ -1,4 +1,4 @@
-# Web_project
+# Web dev projects
 Just used html, css and javascript<br>Suitable for begineers.
 
 # Contents
